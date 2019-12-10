@@ -1,4 +1,4 @@
-Name of QuantLet : mergers_acquisitions_energy
+Name of QuantLet : DEDA_Mergers_Acquisitions_Energy
 
 Published in : 'Digital Economy & Decision Analysis‘ 
 
