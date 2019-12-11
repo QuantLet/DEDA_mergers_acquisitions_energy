@@ -1,6 +1,6 @@
-Name of QuantLet : DEDA_nergers_acquisitions_energy
+Name of QuantLet : DEDA_mergers_acquisitions_energy
 
-Published in : 'Digital Economy & Decision Analysis‘ 
+Published in : 'Digital Economy & Decision Analysis'
 
 Description : 'Analyzes mergers & acquisitions on the German energy market, including approximation with different distributions and forecasting with ARIMA and GARCH'
 
